@@ -1,0 +1,8 @@
+{"timestamp":"2026-11-01T10:00:00+00:00","event_type":"auth_success","source_ip":"203.0.113.12","username":"alice","destination":"sshd","success":true}
+{"timestamp":"2026-11-01T10:02:00+00:00","event_type":"auth_failed","source_ip":"198.51.100.22","username":"root","destination":"sshd","success":false}
+{"timestamp":"2026-11-01T10:03:00+00:00","event_type":"auth_failed","source_ip":"198.51.100.22","username":"admin","destination":"sshd","success":false}
+{"timestamp":"2026-11-01T10:04:00+00:00","event_type":"auth_failed","source_ip":"198.51.100.22","username":"support","destination":"sshd","success":false}
+{"timestamp":"2026-11-01T10:05:00+00:00","event_type":"auth_failed","source_ip":"198.51.100.22","username":"backup","destination":"sshd","success":false}
+{"timestamp":"2026-11-01T10:06:00+00:00","event_type":"auth_success","source_ip":"198.51.100.22","username":"backup","destination":"sshd","success":true}
+{"timestamp":"2026-11-01T10:10:00+00:00","event_type":"auth_failed","source_ip":"203.0.113.17","username":"bob","destination":"sshd","success":false}
+{"timestamp":"2026-11-01T10:20:00+00:00","event_type":"auth_failed","source_ip":"203.0.113.17","username":"bob","destination":"sshd","success":false}
