@@ -11,7 +11,7 @@ Security teams need practical evidence before making decisions. This project dem
 The initial architecture keeps the first milestone small and maintainable:
 
 ```text
-Networking&CyberSecurity/
+SENTINEL-X
 ├── README.md
 ├── main.py
 ├── data/
